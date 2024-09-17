@@ -22,9 +22,27 @@ console.log(arr[2].join(" ") );
 //  }
 
 
- var number = prompt("Enter Your Number!");
- var lenght = prompt("Enter your lenght!")
+//  var number = prompt("Enter Your Number!");
+//  var lenght = prompt("Enter your lenght!")
 
-for(var i = 1 ; i <= lenght; i++){
-    document.write("<h1>"+ number + " x " + i + " = " + number * i +"</h1>")
-}
+// for(var i = 1 ; i <= lenght; i++){
+//     document.write("<h1>"+ number + " x " + i + " = " + number * i +"</h1>")
+// }
+
+//Question no 05//
+
+// var arry = ["Apple","orange","Pineapple","Banana"];
+
+// for(var i = 0 ; i <= arry.length; i++){
+// }
+
+// document.write("<h1>" + arry[0] +"<br>" );
+// document.write( "<h1>" +arry[1] +"<br>");
+// document.write( "<h1>" +arry[2] +"<br>");
+// document.write( "<h1>" +arry[3] +"<br>" + "<br>");
+
+
+// document.write("Element at Index 0 is " + arry[0] +"<br>" );
+// document.write( "Element at Index 1 is " +arry[1] +"<br>");
+// document.write( "Element at Index 2 is " +arry[2] +"<br>");
+// document.write("Element at Index 3 is " +arry[3] +"<br>");
