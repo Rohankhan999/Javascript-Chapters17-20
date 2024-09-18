@@ -106,3 +106,5 @@ console.log(arr[2].join(" ") );
 // for(var i = 1 ; i <= 20 ; i++){
 //     document.write("<p>"+i*5);
 // }
+
+// Create by Muhammad Rohan//
